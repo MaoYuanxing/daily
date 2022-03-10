@@ -1,0 +1,4 @@
+/usr/local/share/doc/cmake/COPYRIGHT
+/usr/local/share/doc/cmake/README.md
+/usr/local/bin/runTurial.sh
+/usr/local/share/doc/cmake/Tuorial.txt
