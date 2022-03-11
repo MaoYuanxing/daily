@@ -1,0 +1,1000 @@
+  944  g++ reverlist.cpp -o rever
+  945  ./rever
+  946  g++ reverlist.cpp -o rever
+  947  ./rever
+  948  g++ reverlist.cpp -o rever
+  949  ./rever
+  950  clear
+  951  g++ reverlist.cpp -o rever
+  952  clear
+  953  ./rever
+  954  g++ reverlist.cpp -o rever
+  955  ./rever
+  956  g++ reverlist.cpp -o rever
+  957  ./rever
+  958  ifconfig
+  959  cd ..
+  960  git init
+  961  git clone https://github.com/MaoYuanxing/leett.git
+  962  git clone git@github.com:MaoYuanxing/leett.git
+  963  git clone https://github.com/MaoYuanxing/leett.git
+  964  git add .
+  965  mv 1test.cpp leett/
+  966  mv 3test.c leett/
+  967  mv 4test.c leett/
+  968  mv duishuqi.c leett/
+  969  mv duishuqi.h leett/
+  970  mv test.cpp leett/
+  971  mv Linkedlist.h leett/
+  972  cd leett/
+  973  mkdir test
+  974  mv 1test.cpp 3test.c 4test.c test/
+  975  mv duishuqi.c duishuqi.h Linkedlist.h test.cpp test/
+  976  cd ..
+  977  mv linked_list/ mem/ test/
+  978  mv linked_list/ mem/ leett/
+  979  mv socket/ stack/ threadpool/ leett/
+  980  cd leett/
+  981  git add .
+  982  git commit -m 'new commit files'
+  983  git config --global user.name "MaoYuanxing"
+  984  git commit -m 'new commit files'
+  985  git push origin
+  986  git remote add origin git@github.com:MaoYuanxing/leett.git
+  987  git push -u orgin master
+  988  git push -u origin
+  989  git push origin
+  990  locate hello.c
+  991  sudo updatedb
+  992  gcc -dumpversion
+  993  cd leet/
+  994  cd leett/
+  995  git push origin
+  996  git add README.md 
+  997  git commit -m "collaborate"
+  998  git push origin
+  999  git pull
+ 1000  git pull --rebase origin main
+ 1001  git pull
+ 1002  git add hello.c 
+ 1003  git commit -m "a plus"
+ 1004  git push origin
+ 1005  git push
+ 1006  git pull~
+ 1007  git pull
+ 1008  mv ../cJSON leett/
+ 1009  mv ../cJSON/ leett/
+ 1010  cd ..
+ 1011  mv ..cJSON/ leett/
+ 1012  cd ..
+ 1013  mv cJSON/ leet/leett/
+ 1014  cd leet/leett/
+ 1015  git add cJSON/
+ 1016  git help submodule
+ 1017  cd cJSON/
+ 1018  rm -rf .github
+ 1019  cd ..
+ 1020  git add cJSON/
+ 1021  git commit -m "cJSON"
+ 1022  git push origin 
+ 1023  git add .
+ 1024  git commit -m "push all of cJSON"
+ 1025  git push origin
+ 1026  git add .
+ 1027  git commit -m "push all of cJSON"
+ 1028  git commit -m "push all of cJSONS"
+ 1029  cd cJSON/
+ 1030  ls
+ 1031  cd cJSON/
+ 1032  ls
+ 1033  git add cJSON/cJSON/*
+ 1034  cd ..
+ 1035  git add cJSON/cJSON/*
+ 1036  cd cJSON/
+ 1037  git git remote set-url origin https://github.com/MaoYuanxing/leett.git
+ 1038  git remote set-url origin https://github.com/MaoYuanxing/leett.git
+ 1039  git push origin
+ 1040  mv cJSON/ ../
+ 1041  mv cJSON/ leet/
+ 1042  mv leet/ cJSON/ 
+ 1043  cd..
+ 1044  cd ..
+ 1045  mv cJSON/ ../
+ 1046  cd .;.
+ 1047  cd ..
+ 1048  cd cJSON/
+ 1049  git push origin
+ 1050  git push --set-upstream origin master
+ 1051  cd ..
+ 1052  cd ../cJSON/
+ 1053  git branch
+ 1054  git branch master
+ 1055  git push --set-upstream origin master
+ 1056  git branch -a
+ 1057  cd -
+ 1058  git branch -a
+ 1059  cd -
+ 1060  git remote set-url origin https://github.com/MaoYuanxing/leett.git
+ 1061  git init
+ 1062  git remote set-url origin https://github.com/MaoYuanxing/leett.git
+ 1063  git remote add origin https://github.com/MaoYuanxing/leett.git
+ 1064  git add .
+ 1065  mv
+ 1066  mv cJSON/ ../
+ 1067  mv cJSON/  leet/
+ 1068  ls
+ 1069  mv leet/ ../
+ 1070  ls
+ 1071  cd ..
+ 1072  rmdir cJSON/
+ 1073  rm -rf cJSON/
+ 1074  mv leet/ cJSON/
+ 1075  cd cJSON/
+ 1076  git add .
+ 1077  git branch -a
+ 1078  git remote set-url origin https://github.com/MaoYuanxing/leett.git
+ 1079  git branch -a
+ 1080  git commit
+ 1081  git add .
+ 1082  git commit
+ 1083  git push origin master
+ 1084  history
+ 1085  history > history.txt
+ 1086  ls
+ 1087  cd 
+ 1088  cd l
+ 1089  cd leet/
+ 1090  gcc -v > linkprocess
+ 1091  ls
+ 1092  gcc -v -o  linkprocess
+ 1093  cat /usr/include/stdio.h | grep '/<printf/>'
+ 1094  cat /usr/include/stdio.h | grep 'printf'
+ 1095  cat /usr/include/stdio.h | grep '\<printf\>'
+ 1096  objdump -T /lib/x86_64-linux-gnu/libc.so.6 | grep '\<printg\>'
+ 1097  objdump -T /lib/x86_64-linux-gnu/libc.so.6 | grep '\<printf\>'
+ 1098  cd /
+ 1099  local cJSON/
+ 1100  locate cJSON/
+ 1101  sudo apt install mlocate
+ 1102  su sudo
+ 1103  su root
+ 1104  sudo chown -R ml /home/ml/clearn/clearn/README.md 
+ 1105  git push origin
+ 1106  locate ip_rsa.pub
+ 1107  git pull
+ 1108  sudo chown -R ml /home/ml/clearn/clear/
+ 1109  sudo chown -R ml /home/ml/clearn/clearn/
+ 1110  sudo chown -R ml /home/ml/clearn/
+ 1111  git pull
+ 1112  locate cJSON/
+ 1113  sudo apt install mlocate
+ 1114  locate cJSON/
+ 1115  locate hello.c
+ 1116  cat /etc/ld.so.conf
+ 1117  ls /etc/ld.so.conf.q/
+ 1118  ls /etc/ld.so.conf.d/
+ 1119  cat /etc/ld.so.conf.d/ld.wsl.conf 
+ 1120  cat /etc/ld.so.conf.d/libc
+ 1121  cat /etc/ld.so.conf.d/libc.conf 
+ 1122  mkdir clearn
+ 1123  su root 
+ 1124  cd clearn/
+ 1125  gcc -c primary_additive.c 
+ 1126  gcc -c primary_subtractive.c 
+ 1127  ar cr libprimarycolors.a primary_additive.o primary_subtractive.o
+ 1128  gcc -o app color_example.c -L libprimarycolors.a 
+ 1129  gcc -o app color_example.c -L. libprimarycolors.a 
+ 1130  ./app
+ 1131  sudo mkdir /usr/local/lib/lettuce
+ 1132  gcc -fPIC -shared -o libprimarycolors.so primary_additive.c primary_subtractive.c
+ 1133  sudo cp libprimarycolors.so /usr/local/lib/lettuce/
+ 1134  gcc -o app color_example.c /L/usr/local/lib/lettuce/ -lprimarycolors
+ 1135  gcc -o app color_example.c -L/usr/local/lib/lettuce/ -lprimarycolors
+ 1136  ./ap
+ 1137  ./app
+ 1138  cd /usr/local/lib/lettuce/ 
+ 1139  la
+ 1140  cd -
+ 1141  gcc -o app color_example.c -L/usr/local/lib/lettuce/ -lprimarycolors
+ 1142  ./app
+ 1143  gcc -o app color_example.c -L /usr/local/lib/lettuce/  -lprimarycolors
+ 1144  ./app
+ 1145  export LD_LIBRARY_PATH=/usr/local/lib/lettuce/:$LD_LIBRARY_PATH
+ 1146  cd ml/
+ 1147  cd clearn/
+ 1148  gcc -o app color_example.c primary_subtractive.c  primary_additive.c 
+ 1149  ./app
+ 1150  touch .gitignore
+ 1151  git push
+ 1152  git add .
+ 1153  git commit -m '多文件编译'
+ 1154  git push
+ 1155  git push origin
+ 1156  git add .
+ 1157  git commit -m '多文件编译'
+ 1158  git push origin
+ 1159  git add .
+ 1160  git commit -m '多文件编译'
+ 1161  git pull
+ 1162  git add .
+ 1163  git commit -m '多文件编译'
+ 1164  git push origin
+ 1165  cd ..
+ 1166  git add .
+ 1167  cd c
+ 1168  cd clearn/
+ 1169  mkdir primiary
+ 1170  gcc -o app_additive color_example_additive.c -L. libprimarycolors.a
+ 1171  gcc -o app_subtractive color_example_subtractive.c -L. libprimarycolors.a
+ 1172  nm app_additive | grep primary
+ 1173  nm app_subtractive | grep primary
+ 1174  mkdir my_include
+ 1175  cd my_include/
+ 1176  vim include_path.c
+ 1177  vim infile.h
+ 1178  gcc include_path.c 
+ 1179  vim infile.h
+ 1180  gcc include_path.c 
+ 1181  ./a
+ 1182  ./a.out 
+ 1183  cd .. 
+ 1184  cd my_include/
+ 1185  cp infile.h ../infile.h
+ 1186  cd ..
+ 1187  vim infile.h 
+ 1188  cd my_include/
+ 1189  rm a
+ 1190  rm a.out 
+ 1191  gcc -o app -l../ include_path.c 
+ 1192  gcc -o app -l../primiary include_path.c 
+ 1193  man gcc
+ 1194  gcc -o app -I../primiary include_path.c 
+ 1195  cd ..
+ 1196  mv infile.h primary/
+ 1197  mv infile.h primiary/
+ 1198  cd ..
+ 1199  cd -
+ 1200  cd primiary/
+ 1201  vim infile.h 
+ 1202  cd ..
+ 1203  cd my_include/
+ 1204  ./app 
+ 1205  mv infile.h ../
+ 1206  gcc -o app -I../primiary include_path.c 
+ 1207  ./app
+ 1208  mv ../infile.h ../my_include/
+ 1209  gcc -o app -I../primiary include_path.c 
+ 1210  ./app
+ 1211  mv infile.h ../
+ 1212  gcc -o app -I../primiary include_path.c 
+ 1213  ./app
+ 1214  cd ..
+ 1215  mv infile.h ~/
+ 1216  cd ?
+ 1217  cd /
+ 1218  cd etc/
+ 1219  ls
+ 1220  ls -a
+ 1221  >gcc -o app -I../primiary include_path.cx
+ 1222  cd ~
+ 1223  vim .bashrc
+ 1224  vim infile.h 
+ 1225  ls
+ 1226  cd clearn/
+ 1227  cd my_include/
+ 1228  cd ..
+ 1229  cd primiary/
+ 1230  rm infile.h 
+ 1231  cd .. 
+ 1232  cd my_include/
+ 1233  >gcc -o app -I../primiary include_path.c
+ 1234  gcc -o app -I../primiary include_path.c
+ 1235  cd clearn/
+ 1236  ./app
+ 1237  vim .bashrc
+ 1238  cd clearn/
+ 1239  cd clearn/ 
+ 1240  cd my_include/
+ 1241  gcc -o app -I../primiary/ include_path.c 
+ 1242  echo $C_INCLUDE_PATH
+ 1243  echo $CPATH
+ 1244  echo $LD_LIBRARY_PATH
+ 1245  echo $CPATH
+ 1246  cd clearn/clearn/my_include/
+ 1247  gcc -o app
+ 1248  gcc -o app -I../primiary/ include_path.c 
+ 1249  ./app 
+ 1250  cd /usr/include
+ 1251  vim infile.h 
+ 1252  cd -
+ 1253  gcc -o app -I../primiary/ include_path.c 
+ 1254  ./app 
+ 1255  cd -
+ 1256  mv infile.h /home/ml/clearn/clearn/my_include/
+ 1257  sudo mv infile.h /home/ml/clearn/clearn/my_include/
+ 1258  cd -
+ 1259  cd ..
+ 1260  mv color_example_additive.c  color_example_subtractive.c color_example.c primary_additive.c primary_subtractive.c primary.h  primiary/
+ 1261  git add .
+ 1262  git commit -m '.19'
+ 1263  git push origin
+ 1264  cd ~
+ 1265  git clone
+ 1266  git clone https://github.com/MaoYuanxing/toolslearn.git
+ 1267  cd clearn/
+ 1268  ./ap
+ 1269  ./app
+ 1270  echo LD_LIBRARY_PATH
+ 1271  echo $LD_LIBRARY_PATH
+ 1272  echo $PATH
+ 1273  history
+ 1274  cd ~
+ 1275  ls -a
+ 1276  vim .bashrc 
+ 1277  ls
+ 1278  mv infile.h /usr/include/
+ 1279  sudo mv infile.h  /usr/include/
+ 1280  vim .bashrc 
+ 1281  cd clearn/clearn/my_include/
+ 1282  mkdir left
+ 1283  cd left/
+ 1284  vim ab.h
+ 1285  vim dq.h
+ 1286  cd ..
+ 1287  mkdir
+ 1288  mkdir right
+ 1289  cd right/
+ 1290  vim ab.h
+ 1291  vim dq.h
+ 1292  cd ..
+ 1293  vim option-I-.c
+ 1294  gcc -E option-I-.c -o option-I-.i -lleft -I- -lright
+ 1295  gcc -E option-I-.c -o option-I-.i -Ileft -I- -Iright
+ 1296  vim option-I-.i
+ 1297  gcc -E option-I-.c -o option-I-1.i -Ileft -I- -Iright
+ 1298  ls
+ 1299  cd ..
+ 1300  ls
+ 1301  cd primiary/
+ 1302  ls
+ 1303  vim makefile
+ 1304  make
+ 1305  vim makefile
+ 1306  make
+ 1307  echo $LDFLAGS
+ 1308  echo $(LDFLAGS)
+ 1309  make
+ 1310  vim makefile 
+ 1311  make
+ 1312  ./app
+ 1313  rm *.o
+ 1314  rm app
+ 1315  vim makefile 
+ 1316  make
+ 1317  ./app
+ 1318  rm *.o
+ 1319  rm app
+ 1320  vim makefile 
+ 1321  make
+ 1322  rm *.o
+ 1323  rm app
+ 1324  vim makefile 
+ 1325  make
+ 1326  rm *.o
+ 1327  rm app
+ 1328  vim makefile 
+ 1329  make
+ 1330  ls
+ 1331  ls -a
+ 1332  rm *.o
+ 1333  ls
+ 1334  color_example
+ 1335  ./color_example
+ 1336  rm color_example
+ 1337  vim ma
+ 1338  rm ma
+ 1339  vim makefile 
+ 1340  make
+ 1341  ./app
+ 1342  make clean
+ 1343  rm app 
+ 1344  vim makefile 
+ 1345  make
+ 1346  make clean
+ 1347  vim 
+ 1348  vim makefile 
+ 1349  make
+ 1350  make clean
+ 1351  cd /usr/include/linux/
+ 1352  ls
+ 1353  cd /include
+ 1354  cd /include/
+ 1355  cd /home/
+ 1356  cd ml/
+ 1357  cd leet/
+ 1358  cd ..
+ 1359  mkdir problem
+ 1360  cd problem/
+ 1361  touch test.h
+ 1362  touch test.c
+ 1363  touch makefile
+ 1364  mv test.c test.cpp
+ 1365  g++ -o test test.cpp 
+ 1366  ./test
+ 1367  g++ -o -g  test test.cpp 
+ 1368  g++ -g -o  test test.cpp 
+ 1369  gdb test
+ 1370  touch bitmap.c
+ 1371  mv bitmap.c bitmap.cp
+ 1372  mv bitmap.c bitmap.cpp
+ 1373  mv bitmap.cp bitmap.cpp
+ 1374  gcc -o bit bitmap.cpp 
+ 1375  g++ -o bit bitmap.cpp 
+ 1376  ./bit
+ 1377  g++ -o bit bitmap.cpp 
+ 1378  ./bit
+ 1379  g++ -o bit bitmap.cpp 
+ 1380  ./bit
+ 1381  g++ -g -o bit bitmap.cpp 
+ 1382  gdb bit
+ 1383  g++ -g -o bit bitmap.cpp 
+ 1384  ./bit
+ 1385  g++ -g -o bit bitmap.cpp 
+ 1386  ./bit
+ 1387  g++ -g -o bit bitmap.cpp 
+ 1388  ./bit
+ 1389  g++ -g -o bit bitmap.cpp 
+ 1390  ./bit
+ 1391  g++ -g -o bit bitmap.cpp 
+ 1392  ./bit
+ 1393  g++ -g -o bit bitmap.cpp 
+ 1394  ./bit
+ 1395  g++ -g -o bit bitmap.cpp 
+ 1396  ./bit
+ 1397  g++ -g -o bit bitmap.cpp 
+ 1398  ./bit
+ 1399  g++ -g -o bit bitmap.cpp 
+ 1400  ./bit
+ 1401  g++ -g -o bit bitmap.cpp 
+ 1402  ./bit
+ 1403  g++ -g -o bit bitmap.cpp 
+ 1404  ./bit
+ 1405  g++ -g -o bit bitmap.cpp 
+ 1406  ./bit
+ 1407  g++ -g -o bit bitmap.cpp 
+ 1408  ./bit
+ 1409  cd ..
+ 1410  find duishuqi
+ 1411  find ~/ duishuqi
+ 1412  locate duishuqi.*
+ 1413  cd problem/
+ 1414  git init
+ 1415  git remote set-url origin git@github.com:MaoYuanxing/daily.git
+ 1416  git remote add origin git@github.com:MaoYuanxing/daily.git
+ 1417  rm bit
+ 1418  rm test
+ 1419  mkdir 03-08
+ 1420  mv bitmap.cpp test.cpp test.h 03-08
+ 1421  rm makefile 
+ 1422  mkdir 03-09
+ 1423  git add .
+ 1424  git commit
+ 1425  git commit -m '03-08'
+ 1426  git push origin
+ 1427  git push --set-upstream origin main
+ 1428  git push --set-upstream origin master
+ 1429  git remote add origin https://github.com/MaoYuanxing/daily.git
+ 1430  git push --set-upstream origin master
+ 1431  cat ~/.ssh
+ 1432  ls  ~/.ssh
+ 1433  ssh-keygen -t ed25519 -C "2741514344@qq.com"
+ 1434  ls  ~/.ssh
+ 1435  cat ~/.ssh/id_ed25519.pub 
+ 1436  git push --set-upstream origin master
+ 1437  rm test.h 
+ 1438  cd 03-09
+ 1439  touch BinaryTree
+ 1440  mv BinaryTree BinaryTree.cpp
+ 1441  g++ BinaryTree.cpp 
+ 1442  ./a.out 
+ 1443  g++ BinaryTree.cpp 
+ 1444  ./a.out 
+ 1445  g++ BinaryTree.cpp 
+ 1446  ./a.out 
+ 1447  cd ../
+ 1448  cd ../clearn/clearn/
+ 1449  git add README.md 
+ 1450  git commit -m "readme.md"
+ 1451  git push
+ 1452  git push origin
+ 1453  git push
+ 1454  git add README.md 
+ 1455  git commit -m "readme.md"
+ 1456  git push origin
+ 1457  \
+ 1458  cd -
+ 1459  cd 03-09
+ 1460  g++ BinaryTree.cpp 
+ 1461  ./a.out 
+ 1462  g++ BinaryTree.cpp 
+ 1463  ./a.out 
+ 1464  g++ BinaryTree.cpp 
+ 1465  ./a.out 
+ 1466  touch 操作系统.md
+ 1467  cd ..
+ 1468  git add .
+ 1469  git commit -m "03-09"
+ 1470  git push origin
+ 1471  cd clearn/
+ 1472  cd my_include/
+ 1473  gcc -o app -I../primiary/ include_path.c
+ 1474  echo $C_INCLUDE_PATH
+ 1475  cd /home
+ 1476  ls
+ 1477  cd ml/
+ 1478  ls
+ 1479  mv infile.h ../
+ 1480  sudo mv infile.h ../
+ 1481  cd clearn/clearn/my_include/
+ 1482  gcc -o app -I../primiary/ include_path.c
+ 1483  ./app 
+ 1484  cd -
+ 1485  cd ..
+ 1486  mv infile.h ml/
+ 1487  sudo mv infile.h ml/
+ 1488  cd problem/
+ 1489  mkdir 03
+ 1490  mv 03-* 03/
+ 1491  ls
+ 1492  mkdir 04
+ 1493  git add .
+ 1494  git commit -m "版面调整"
+ 1495  git push origin 
+ 1496  cd 03
+ 1497  mkdir 03-10
+ 1498  cd 03-10
+ 1499  touch sort.cpp
+ 1500  g++ sort.cpp sort.cpp 
+ 1501  g++ sort.cpp 
+ 1502  ./a
+ 1503  ./a.out 
+ 1504  cd ../..
+ 1505  touch .gitignore
+ 1506  cd -
+ 1507  g++ sort.cpp 
+ 1508  ./a.out 
+ 1509  g++ sort.cpp 
+ 1510  ./a.out 
+ 1511  g++ sort.cpp 
+ 1512  ./a.out 
+ 1513  g++ sort.cpp 
+ 1514  ./a.out 
+ 1515  g++ sort.cpp 
+ 1516  ./a.out 
+ 1517  g++ sort.cpp 
+ 1518  ./a.out 
+ 1519  g++ sort.cpp 
+ 1520  ./a.out 
+ 1521  g++ sort.cpp 
+ 1522  ./a.out 
+ 1523  touch test.c
+ 1524  vom test.c 
+ 1525  vim test.c 
+ 1526  gcc test.c 
+ 1527  ./a.out 
+ 1528  touch 1test.cpp
+ 1529  g++ 1test.cpp 
+ 1530  ./a.out 
+ 1531  touch Linkedlist.cpp
+ 1532  g++ Linkedlist.cpp 
+ 1533  ./a.out 
+ 1534  g++ Linkedlist.cpp 
+ 1535  ./a.out 
+ 1536  g++ Linkedlist.cpp 
+ 1537  ./a.out 
+ 1538  g++ Linkedlist.cpp 
+ 1539  ./a.out 
+ 1540  g++ Linkedlist.cpp 
+ 1541  ./a.out 
+ 1542  g++ Linkedlist.cpp 
+ 1543  ./a.out 
+ 1544  ListNode* deleteValue(ListNode *head, int key) {
+ 1545  while(head != null) {
+ 1546  if(head->val != key)
+ 1547  g++ Linkedlist.cpp 
+ 1548  ./a.out 
+ 1549  cd ../..
+ 1550  mkdir cmakehelp
+ 1551  cd cmakehelp/
+ 1552  cmake -v
+ 1553  sudo apt install cmake
+ 1554  touch cmakelists.txt
+ 1555  cmake -v
+ 1556  man cmake
+ 1557  mkdir step1
+ 1558  mv cmakelists.txt step1/
+ 1559  cd step1/
+ 1560  wget https://cmake.org/cmake/help/latest/guidehttps://github.com/Kitware/CMake/tree/master/Help/guide/tutorial/Step1
+ 1561  ls
+ 1562  touch tutorial.cxx
+ 1563  mkdir Step1_build
+ 1564  cd Step1_build/
+ 1565  cmake ../Step1
+ 1566  cmake ../
+ 1567  cd ..
+ 1568  mv Step1_build/ ../
+ 1569  cd ../Step1_build/
+ 1570  cmake ../step1
+ 1571  la
+ 1572  ls
+ 1573  cd ..
+ 1574  cd step1/
+ 1575  ls
+ 1576  mv cmakelists.txt CMakeLists.txt
+ 1577  cd -
+ 1578  cd Step1_build/
+ 1579  cmake ../step1
+ 1580  cmake --bulid .
+ 1581  ls
+ 1582  cd ..
+ 1583  rm -rf Step1_build/
+ 1584  mkdir Step1_bulid
+ 1585  cd Step1_bulid/
+ 1586  cmake ../step1/
+ 1587  ls
+ 1588  cd CMakeFiles/
+ 1589  ls
+ 1590  cd ..
+ 1591  ls
+ 1592  cd ..
+ 1593  cd step1/
+ 1594  ls
+ 1595  cd ../Step1_bulid/
+ 1596  ls
+ 1597  Tutorial 10
+ 1598  rm -rf Step1_build/
+ 1599  mkdir Step1_bulid
+ 1600  cd ../
+ 1601  rm -rf Step1_build/
+ 1602  mkdir Step1_bulid
+ 1603  rm -rf Step1_build
+ 1604  mkdir Step1_bulid
+ 1605  cd Step1_bulid/
+ 1606  cmake ../Step1
+ 1607  cmake ../step1
+ 1608  ls
+ 1609  cmake --build .
+ 1610  ls
+ 1611  cd ../step1/
+ 1612  g++ tutorial.cxx 
+ 1613  cd -
+ 1614  rm -rf *
+ 1615  cmake ../step1/
+ 1616  ls
+ 1617  cmake --bulid .
+ 1618  ls
+ 1619  Tutorial 4294967296
+ 1620  cd ../step1/
+ 1621  ls
+ 1622  cd -
+ 1623  cd CMakeFiles/
+ 1624  ks
+ 1625  ls
+ 1626  cd Tutorial.dir/
+ 1627  ls
+ 1628  cd ../3.16.3/
+ 1629  ls
+ 1630  cd ../../..
+ 1631  cd step1/
+ 1632  g++ tutorial.cxx 
+ 1633  ./a.out 10
+ 1634  cd ../Step1_bulid/
+ 1635  make
+ 1636  ls
+ 1637  ./Tutorial 12314
+ 1638  cd p
+ 1639  cd problem/
+ 1640  cd cmakehelp/
+ 1641  rm -rf Step1_bulid/
+ 1642  cd step1/
+ 1643  mkdir src
+ 1644  mkdir bin
+ 1645  mkdir bulid
+ 1646  mv tutorial.cxx src/
+ 1647  rm ../a
+ 1648  rm ../a.out
+ 1649  cd ..
+ 1650  cd -
+ 1651  rm a
+ 1652  rm a.out 
+ 1653  rmdir bin
+ 1654  cat CMakeLists.txt 
+ 1655  cd src/
+ 1656  touch CmakeLists.txt
+ 1657  vim CmakeLists.txt 
+ 1658  cat CmakeLists.txt 
+ 1659  ls
+ 1660  cd ..
+ 1661  cd bulid/
+ 1662  cmake ..
+ 1663  cd ../src/
+ 1664  ;s
+ 1665  ls
+ 1666  mv CmakeLists.txt CMakeLists.txt 
+ 1667  cd -
+ 1668  cmake ..
+ 1669  make
+ 1670  ls
+ 1671  cd bin 
+ 1672  ls
+ 1673  ./Tutorial 16
+ 1674  cd ../..
+ 1675  ks
+ 1676  ls
+ 1677  tree
+ 1678  ll
+ 1679  cd bulid/
+ 1680  ll
+ 1681  rm -rf *
+ 1682  cd..
+ 1683  cd ..
+ 1684  tree
+ 1685  mkdir COPYRIGHT
+ 1686  mkdir boc
+ 1687  rmdir COPYRIGHT
+ 1688  touch COPYRIGHT
+ 1689  mv boc/ doc/
+ 1690  cd doc/
+ 1691  touch Tuorial.txt
+ 1692  cd ..
+ 1693  touch README.md
+ 1694  tree
+ 1695  touch runTurial.sh
+ 1696  cd bulid/
+ 1697  cmake ..
+ 1698  ls
+ 1699  rm -rf *
+ 1700  cmake ..
+ 1701  make
+ 1702  cd bin/
+ 1703  ./Tutorial 36
+ 1704  cd ..
+ 1705  make install
+ 1706  sudo make install
+ 1707  cd ~
+ 1708  cd leet/
+ 1709  cd cJSON/
+ 1710  mkdir bulid
+ 1711  cd bulid/
+ 1712  cmake ..
+ 1713  make
+ 1714  make install
+ 1715  sudo make install
+ 1716  cd ~/problem/
+ 1717  cd 03/03-10/
+ 1718  touch JSONusing.cpp
+ 1719  g++ JSONusing.cpp 
+ 1720  mv /*
+ 1721  mv /usr/local/include/cjson/cJSON.h  /usr/include/
+ 1722  sudo mv /usr/local/include/cjson/cJSON.h  /usr/include/
+ 1723  g++ JSONusing.cpp 
+ 1724  cat /usr/include/cJSON.h 
+ 1725  cat /usr/include/cJSON.h | grep -n "cJSON_CreateObject"
+ 1726  cp ~/leet/cJSON/cJSON.h cJSON.h
+ 1727  cp ~/leet/cJSON/cJSON.c cJSON.c
+ 1728  g++ cJSON.c JSONusing.cpp 
+ 1729  touch Json
+ 1730  ./a.out > Json 
+ 1731  cd /usr/local/include/cjson/
+ 1732  ls
+ 1733  cd ..
+ 1734  ls
+ 1735  cd ..
+ 1736  ls
+ 1737  cp /usr/include/cJSON.h /usr/local/include/cjson/cJSON.h
+ 1738  sudo cp /usr/include/cJSON.h /usr/local/include/cjson/cJSON.h
+ 1739  cd include/
+ 1740  cd cjson/
+ 1741  ls
+ 1742  cd ~/problem/03/03-10/
+ 1743  ls
+ 1744  g++ JSONusing.cpp `
+ 1745  g++ JSONusing.cpp 
+ 1746  cd ~/leet/cJSON//bulid/
+ 1747  rm -rf *
+ 1748  cmake .. -DENABLE_CJSON_UTILS=On -DENABLE_CJSON_TEST=Off -DCMAKE_INSTALL_PREFIX=/usr
+ 1749  make
+ 1750* make install
+ 1751  cd /usr/include/
+ 1752  ls
+ 1753  cd usr/
+ 1754  cd ~/problem/03/03-10
+ 1755  g++ JSONusing.cpp 
+ 1756  cat usr/include/usr/include/cjson/cJSON.h
+ 1757  cat /usr/include/usr/include/cjson/cJSON.h
+ 1758  cd ~/leet/cJSON//bulid/
+ 1759  make install
+ 1760  sudo make install
+ 1761  cd -
+ 1762  g++ JSONusing.cpp 
+ 1763  cd /usr/lib/x86_64-linux-gnu/
+ 1764  ;s
+ 1765  ls
+ 1766  ocd -
+ 1767  cd -
+ 1768  g++ -lcjson JSONusing.cpp 
+ 1769  cd -
+ 1770  ls libcjson*
+ 1771  rm libcjson.so.1.7.15 
+ 1772  cd -
+ 1773  cp  JSONusing.cpp JSONusing.c
+ 1774  gcc -lcjson JSONusing.c
+ 1775  gcc JSONusing.c -lcjson
+ 1776  ./a.out  
+ 1777  touch JSONParsing.cpp
+ 1778  rm JSONusing.c
+ 1779  g++ JSONParsing.cpp -lcjson
+ 1780  ./a.out 
+ 1781  touch 操作系统.md
+ 1782  cd ..
+ 1783  git add 03-10/ cmakehelp/ .gitinore
+ 1784  cd ..
+ 1785  git add 03-10/ cmakehelp/ .gitinore
+ 1786  git add 03/03-10/ cmakehelp/ .gitinore
+ 1787  git add 03/03-10/ cmakehelp/ .gitignore
+ 1788  git commit -m "3.10"
+ 1789  git push prigin
+ 1790  git push origin
+ 1791  cd 03/
+ 1792  mkdir 03-11
+ 1793  cd 03-11
+ 1794  touch queue_stack.cpp
+ 1795  cp ../../../leet/leett/linked_list/reverlist.cpp Stack.cpp
+ 1796  g++ Stack.cpp 
+ 1797  ./a.out 
+ 1798  g++ Stack.cpp 
+ 1799  ./a.out 
+ 1800  g++ Stack.cpp 
+ 1801  ./a.out 
+ 1802  g++ Stack.cpp 
+ 1803  ./a.out 
+ 1804  g++ Stack.cpp 
+ 1805  ./a.out 
+ 1806  g++ Stack.cpp 
+ 1807  ./a.out 
+ 1808  g++ Stack.cpp 
+ 1809  ./a.out 
+ 1810  g++ Stack.cpp 
+ 1811  ./a.out 
+ 1812  g++ Stack.cpp 
+ 1813  ./a.out 
+ 1814  g++ Stack.cpp 
+ 1815  ./a.out 
+ 1816  g++ Stack.cpp 
+ 1817  ./a.out 
+ 1818  git add queue_stack.cpp Stack.cpp 
+ 1819  git commit -m "队列和栈" 
+ 1820  git push origin
+ 1821  touch Sort.cpp
+ 1822  cd ../../../leet/leett/test/
+ 1823  ls
+ 1824  gcc -fPIC -shared -o libduishuqi.so duishuqi.c
+ 1825  sudo cp libduishuqi.so /usr/local/lib/lettuce/
+ 1826  cd -
+ 1827  g++ Sort.cpp  -L/usr/local/lib/lettuce/ -lduishuqi
+ 1828  cd -
+ 1829  sudo cp duishuqi.h /usr/local/include/duishuqi.h
+ 1830  cd -
+ 1831  g++ Sort.cpp  -L/usr/local/lib/lettuce/ -lduishuqi
+ 1832  cd -
+ 1833  cat duishuqi.c
+ 1834  cd -
+ 1835  cd /usr/local/lib/lettuce/
+ 1836  ls
+ 1837  cd -
+ 1838  mv ../../../leet/leett/test/duishuqi.c
+ 1839  cp ../../../leet/leett/test/duishuqi.c a.c
+ 1840  g++ Sort.cpp a.c 
+ 1841  ./a.out 
+ 1842  gcc -fPIC -shared -o liba.so
+ 1843  gcc -fPIC -shared -o liba.so a.c
+ 1844  g++ Sort.cpp -la
+ 1845  cd -
+ 1846  la
+ 1847  locate liba.so
+ 1848  cd ..
+ 1849  ls
+ 1850  cd ..
+ 1851  ls
+ 1852  cd -
+ 1853  cd ~/problem/03/03-11
+ 1854  gcc -fPIC -shared -o -L. liba.so a.c
+ 1855  .a.
+ 1856  ./a.out
+ 1857  g++ Sort.cpp -L. -la
+ 1858  gcc -fPIC -shared -o . liba.so a.c
+ 1859  gcc -fPIC -shared -o  liba.so a.c
+ 1860  g++ Sort.cpp -L. -la
+ 1861  ./a.out
+ 1862  ls
+ 1863  rm liba.so 
+ 1864  rm -L
+ 1865  rm -L.
+ 1866  rm ./-L.
+ 1867  g++ Sort.cpp a.c
+ 1868  ./a.out 
+ 1869  g++ Sort.cpp a.c
+ 1870  ./a.out 
+ 1871  g++ Sort.cpp a.c
+ 1872  ./a.out 
+ 1873  g++ Sort.cpp a.c
+ 1874  ./a.out 
+ 1875  g++ Sort.cpp a.c
+ 1876  ./a.out 
+ 1877  g++ -g Sort.cpp a.c
+ 1878  gdb a.out t
+ 1879  g++ -g Sort.cpp a.c
+ 1880  ./a.out 
+ 1881  g++ Sort.cpp  -L/usr/local/lib/lettuce/ -lduishuqi
+ 1882  cd ../../../leet/leett/test/
+ 1883  cd -
+ 1884  cd ../../../clearn/clearn/
+ 1885  ls
+ 1886  ls primiary/
+ 1887  cd -
+ 1888  cd ../../../clearn/clearn/primiary/
+ 1889  gcc -o app color_example.c -L/usr/local/lib/lettuce/ -lprimarycolors
+ 1890  ./app 
+ 1891  rm -rf app 
+ 1892  cd -
+ 1893  gcc  Sort.cpp  -L/usr/local/lib/lettuce/ -lduishuqi
+ 1894  cd ../../../leet/leett/test/
+ 1895  ls
+ 1896  gcc -c duishuqi.c
+ 1897  gcc -fPIC -share -o libduishuqi.so duishuqi.o
+ 1898  gcc -fPIC -shared -o libduishuqi.so duishuqi.o
+ 1899  sudo cp libduishuqi.so /usr/local/lib/lettuce/libduishuqi.so 
+ 1900  cd -
+ 1901  g++   Sort.cpp  -L/usr/local/lib/lettuce/ -lduishuqi
+ 1902  g++ Sort.cpp  -L/usr/local/lib/lettuce/ -lduishuqi
+ 1903  cd ~/clearn/clearn/primiary
+ 1904  ls 
+ 1905  cd -
+ 1906  touch test.c
+ 1907  vim test.c 
+ 1908  g++ test.c  -L/usr/local/lib/lettuce/ -lduishuqi
+ 1909  cd -
+ 1910  mkdir so
+ 1911  cd so
+ 1912  vim add.c
+ 1913  cat add.c 
+ 1914  vim sub.c
+ 1915  vim div.c
+ 1916  vim main.c
+ 1917  vim test.h
+ 1918  ls
+ 1919  gcc -fpic -shared add.c sub.c div.c -o libmymath.so
+ 1920  vim add.c 
+ 1921  vim sub.c 
+ 1922  vim main.c 
+ 1923  vim div.c 
+ 1924  gcc -fpic -shared add.c sub.c div.c -o libmymath.so
+ 1925  sudo cp libmymath.so /usr/local/lib/lettuce/libmymath.so
+ 1926  vim main.c 
+ 1927  sudo cp test.h /usr/include/test.h
+ 1928  gcc -o app main.c -L/usr/local/lib/lettuce/ -lmymath
+ 1929  ./app
+ 1930  mv main.c main.cpp
+ 1931  g++ -o app main.cpp -L/usr/local/lib/lettuce/ -lmymath
+ 1932  gcc -o app main.cpp -L/usr/local/lib/lettuce/ -lmymath
+ 1933  mv main.cpp main.c
+ 1934  gcc -o app main.c -L/usr/local/lib/lettuce/ -lmymath
+ 1935  cd ..
+ 1936  cd -
+ 1937  ldd app
+ 1938  vim test.h 
+ 1939  sudo cp test.h /usr/include/test.h
+ 1940  mv main.c main.cpp
+ 1941  g++ -o app main.cpp -L/usr/local/lib/lettuce/ -lmymath
+ 1942  history
+ 1943  history > history
